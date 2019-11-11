@@ -1,0 +1,15 @@
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\bin\Debug\Metrophile.exe.config
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\bin\Debug\Metrophile.exe
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\bin\Debug\Metrophile.pdb
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\Metrophile.csprojAssemblyReference.cache
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\Metrophile.Form1.resources
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\Metrophile.Properties.Resources.resources
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\Metrophile.csproj.GenerateResource.cache
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\Metrophile.csproj.CoreCompileInputs.cache
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\Metrophile.exe
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\Metrophile.pdb
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\Interop.AcroPDFLib.dll
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\AxInterop.AcroPDFLib.dll
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\obj\Debug\Metrophile.csproj.ResolveComReference.cache
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\bin\Debug\Interop.AcroPDFLib.dll
+H:\+ Files\Current Documents\Coding\Projects\Metrophile\Editions\005\bin\Debug\AxInterop.AcroPDFLib.dll
